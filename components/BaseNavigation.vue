@@ -18,6 +18,11 @@
             About
             </NuxtLink>
         </li>
+        <li>
+          <NuxtLink to="/login">
+            Login
+            </NuxtLink>
+        </li>
       </ul>
     </nav>
 
